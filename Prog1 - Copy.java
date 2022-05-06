@@ -23,7 +23,14 @@ System.out.println("This is addition program");
 		System.out.println("Thank you");
 System.out.println("This is addition program");
 		System.out.println("Thank you");
-System.out.println("This is addition program");
+
+		System.out.println("This is addition program");
 		System.out.println("Thank you");
+		System.out.println("Swapnil Gapp");
+
+                System.out.println("Good Morning");
+                System.out.println("Welcome");
+
+
 }
 }
